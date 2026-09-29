@@ -468,8 +468,8 @@ Music content is provided by [Jamendo](https://www.jamendo.com) under their resp
 
 ## 📬 Contact
 
-**Your Name** — [@yourhandle](https://twitter.com/yourhandle)
-Project Link: [https://github.com/YOUR_USERNAME/beat-pulse](https://github.com/YOUR_USERNAME/beat-pulse)
+**Jashwanth S R** — [@yourhandle](https://www.linkedin.com/in/jashwanth-s-r-5486a0330/)
+Project Link: [https://github.com/Jashwanth-SR-II/beat-pulse](https://github.com/Jashwanth-SR-II/beat-pulse)
 
 ---
 
